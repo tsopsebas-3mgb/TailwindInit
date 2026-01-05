@@ -1,0 +1,1 @@
+import{l as e}from"./index-DO-k5w-w.js";var t=e(`dot`,[[`circle`,{cx:`12.1`,cy:`12.1`,r:`1`,key:`18d7e5`}]]);export{t};
